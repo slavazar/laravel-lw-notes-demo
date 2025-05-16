@@ -9,3 +9,6 @@
 
 Laravel is accessible, powerful, and provides tools required for large, robust applications.
 
+Demo site
+
+http://lw-notes-demo.weblab.pw/
